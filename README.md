@@ -1,3 +1,3 @@
 # RecipeMedia
-hiii
-hello
+
+It is a flutter based project.
