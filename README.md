@@ -1,3 +1,3 @@
 # RecipeMedia
 
-It is a flutter based project.
+It is a flutter based project.The Recipe App.
