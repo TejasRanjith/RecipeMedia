@@ -10,6 +10,8 @@
 <em></em>
 
 <!-- BADGES -->
+![Category](https://img.shields.io/badge/Category-App%20Development-blue?style=for-the-badge&logo=appveyor)
+<br>
 <!-- local repository, no metadata badges. -->
 
 <em>Built with the tools and technologies:</em>
